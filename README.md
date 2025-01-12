@@ -75,3 +75,7 @@ Use Cases: Supervised ML tasks (classification).
 Why Use This Dataset?
 This dataset provides a rich set of labeled network flows that simulate realistic network and attack scenarios. Its balanced distribution of normal and malicious traffic and comprehensive feature set make it an excellent resource for researchers working on network security and machine learning for DDoS detection.
 
+We used the cache size of the files mentioned in reference (1) as normal files.
+
+1. Roy, Arjun, et al. "Inside the social network's (datacenter) network." Proceedings of the 2015 ACM Conference on Special Interest Group on Data Communication. 2015.
+
