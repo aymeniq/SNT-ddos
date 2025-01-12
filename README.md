@@ -1,5 +1,5 @@
-# SNT-ddos
-Simulated Network Traffic (SNT)  DDoS Detection Dataset Using Mininet and Ryu
+# SNT-ddos Simulated Network Traffic (SNT) DDoS Detection Dataset Using Mininet and Ryu
+
 
 Dataset Overview
 This dataset was created to aid the development of machine learning models for detecting Distributed Denial of Service (DDoS) attacks in a Software-Defined Networking (SDN) environment. It includes both normal and malicious network traffic, generated in a controlled, simulated network environment using Mininet (for network simulation) and the Ryu SDN controller (for managing traffic flow).
